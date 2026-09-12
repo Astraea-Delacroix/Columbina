@@ -1,0 +1,36 @@
+{
+  "notice": "User-provided voice pack. Use only with permission from the copyright holder.",
+  "click": [
+    {
+      "file": "click/初遇.m4a",
+      "text": "初遇"
+    },
+    {
+      "file": "click/喜好.m4a",
+      "text": "喜好"
+    },
+    {
+      "file": "click/突破.m4a",
+      "text": "突破"
+    }
+  ],
+  "greeting": [
+    {
+      "file": "greeting/早上好.m4a",
+      "text": "早上好"
+    },
+    {
+      "file": "greeting/中午好.m4a",
+      "text": "中午好"
+    },
+    {
+      "file": "greeting/晚上好.m4a",
+      "text": "晚上好"
+    },
+    {
+      "file": "greeting/晚安.m4a",
+      "text": "晚安"
+    }
+  ]
+}
+

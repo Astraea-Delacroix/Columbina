@@ -1,0 +1,4 @@
+请将拥有使用权的歌曲文件放在此目录，并命名为：
+lullaby_of_the_new_moon_somnias_a_luna.mp3
+
+右键桌宠即可播放或停止该歌曲。
